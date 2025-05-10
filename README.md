@@ -1,5 +1,5 @@
 # comfyui-workflows
-Personal Workflows for ComfyUI
+Personal Workflows for ComfyUI - AI generation for text to image, image to image, image to video, etc.
 
 ### t2i-comfy-ui-workflow-easy-generation
 Text to image workflow with Preprocessor
